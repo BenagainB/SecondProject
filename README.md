@@ -1,2 +1,2 @@
-# SecondProject
-Second CoderFoundry project. Learning Git.
+# Second Project
+Second CoderFoundry project. Learning Git. Hello Everyone!
